@@ -1,0 +1,21 @@
+{
+  "name": "scraper-for-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.8.0",
+    "@babel/core": "^7.8.0",
+    "@babel/node": "^7.8.0",
+    "@babel/preset-env": "^7.8.0",
+    "cherio": "^1.0.0-rc.2",
+    "puppeteer": "^2.0.0",
+    "transliteration": "^2.1.8"
+  }
+}
